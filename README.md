@@ -2,7 +2,7 @@ Hypixel Public API (Java)
 ======
 This is a Java implementation of the Hypixel API
 
-THIS VERSION IS JAVA LANGUAGE LEVEL 6 COMPATIBLE. VERSION IS NOT 100% TESTED! SO IF YOU ARE ABLE TO USE THE LEVEL 8 VERSION CHECK IT OUT [HERE](https://github.com/HypixelDev/PublicAPI).
+**THIS VERSION IS JAVA LANGUAGE LEVEL 6 COMPATIBLE. VERSION IS NOT 100% TESTED! IF YOU ARE ABLE TO USE THE LEVEL 8 VERSION CHECK IT OUT [HERE](https://github.com/HypixelDev/PublicAPI).**
 
 ### Documentation
 Hypixel PublicAPI documentation is mostly contained within the source code and the [example code](https://github.com/HypixelDev/PublicAPI/tree/master/Example/src/main/java/net/hypixel/example).
